@@ -2,11 +2,15 @@
 Hello visitor,
 
 I am a 2 year Computer Science dropout. I have worked in the field for over a year. I do have experience as a programmer.
+
 This is my journey through [Open Source Society University](https://github.com/ossu/computer-science).
 
 If I already have working experience and fundamentals, why doing this curriculum?
+
 I really like studying, I am a extremely curious human being always willing to learn something new.
+
 I got fascinated by this extremely well done free curriculum and wanted to work on it.
+
 Because I am a dropout, I don't have extremely solid fundamentals. This will fix it.
 
 I am not in a rush to finish this, I will do this along with learning smart contract development and security.
