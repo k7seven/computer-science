@@ -26,7 +26,7 @@ I am not in a rush to finish this, I will do this along with learning smart cont
 
 - [Intro CS](#intro-cs)
   - [Introduction to Programming](#introduction-to-programming) ✔️
-  - [Introduction to Computer Science](#introduction-to-computer-science)
+  - [Introduction to Computer Science](#introduction-to-computer-science) 🛠️
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
   - [Core math](#core-math)
@@ -57,7 +57,7 @@ If you've never written a for-loop, or don't know what a string is in programmin
 `simple data structures`
 
 Courses | Duration | Effort | Prerequisites | Discussion | k77 Finished?
-:-- | :--: | :--: | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--: | :--: | :--:
 [Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z) | ✔️
 
 ### Introduction to Computer Science
