@@ -1,11 +1,11 @@
 # k77 Computer Science Degree
 Hello visitor,
 
-I am a 2 year Computer Science dropout. I have worked in the field for over a year. I do have experience as a programmer.
+I am a 2 year Computer Science dropout. I do have experience as a programmer. I have decided to dropout because I realized I could get a job and earn money way before graduating.
 
 This is my journey through [Open Source Society University](https://github.com/ossu/computer-science).
 
-If I already have working experience and fundamentals, why doing this curriculum?
+If I already have working experience and can make a living out of it, why doing this curriculum?
 
 I really like studying, I am a extremely curious human being always willing to learn something new.
 
