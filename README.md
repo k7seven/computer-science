@@ -26,10 +26,10 @@ I am not in a rush to finish this, I will do this along with learning smart cont
 
 - [Intro CS](#intro-cs)
   - [Introduction to Programming](#introduction-to-programming) ✔️
-  - [Introduction to Computer Science](#introduction-to-computer-science) 🛠️
+  - [Introduction to Computer Science](#introduction-to-computer-science) ✔️
 - [Core CS](#core-cs)
-  - [Core programming](#core-programming)
-  - [Core math](#core-math)
+  - [Core programming](#core-programming) 🛠️
+  - [Core math](#core-math) 🛠️
   - [CS Tools](#cs-tools)
   - [Core systems](#core-systems)
   - [Core theory](#core-theory)
